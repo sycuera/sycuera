@@ -2,7 +2,7 @@
 - 👀 I’m interested in building automation scripts across different types of applications
 - 🌱 I’m currently learning Docker, Javascript & Cypress.io
 - 💞️ I’m looking to collaborate on building robust automation framework that supports the test community
-- 📫 How to reach me sycuera@outlook.com
+- 📫 How to reach me sycuera@outlook.com / sycuera@gmail.com
 
 <!---
 sycuera/sycuera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
